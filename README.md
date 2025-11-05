@@ -12,7 +12,7 @@ This repository contains the code and analysis for our Telkom University Machine
 - **Anomalies**: Detected 15 large price changes, tied to market sessions (weekday patterns).
 
 ![Cluster Distribution](images/cluster_distribution_pie.png) <!-- Overview: Pie chart of cluster breakdown -->
-![Correlation Heatmap](images\cluster_0_correlation_heatmap.png) <!-- Insights: Heatmap for Cluster 0 correlations -->
+![Correlation Heatmap](images/cluster_0_correlation_heatmap.png) <!-- Insights: Heatmap for Cluster 0 correlations -->
 ![Price Large Changes](images/close_price_timeseries.png) <!-- Insights: Line chart highlighting anomalies -->
 
 **Business Impact**: Useful for financial forecasting, risk hedging, or export analytics (e.g., spotting trends in commodity tenders like PT Pindad).
@@ -58,6 +58,7 @@ Questions? Open an issue or connect on [LinkedIn](https://linkedin.com/in/tislam
 ---
 
 *Led with ❤️ by Group 04 (Kanon, Salma, Resti, Karin, Akmal), Telkom University (2025)*
+
 
 
 
