@@ -51,13 +51,14 @@ This repository contains the code and analysis for our Telkom University Machine
 - Viz: Interactive Tableau dashboard (link in progress).
 
 ## 📄 License & Contact
-MIT License – Free to use/fork (see [LICENSE](LICENSE)).
+MIT License – Free to use/fork (see [LICENSE](LICENSE.md)).
 
 Questions? Open an issue or connect on [LinkedIn](https://linkedin.com/in/tislamkanon). #MachineLearning #KMeans #DataAnalytics #Finance
 
 ---
 
 *Led with ❤️ by Group 04 (Kanon, Salma, Resti, Karin, Akmal), Telkom University (2025)*
+
 
 
 
