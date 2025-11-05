@@ -57,7 +57,8 @@ Questions? Open an issue or connect on [LinkedIn](https://linkedin.com/in/tislam
 
 ---
 
-*Led with ❤️ by Group 04 (Kanon, Salma, Resti, Karin, Akmal), Telkom University (2025)*
+*Made with ❤️ by Group 04 (Kanon, Salma, Resti, Karin, Akmal), Telkom University (2025)*
+
 
 
 
